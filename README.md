@@ -42,6 +42,7 @@ The repository currently contains code snippets in the following programming lan
 34. Kotlin (web)
 35. Julia (web)
 36. TypeScript (web)
+37. Rust (embedded)
 
 ## Contributing
 
