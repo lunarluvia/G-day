@@ -43,6 +43,8 @@ The repository currently contains code snippets in the following programming lan
 35. Julia (web)
 36. TypeScript (web)
 37. Rust (embedded)
+38. Julia (embedded)
+39. Lisp
 
 ## Contributing
 
