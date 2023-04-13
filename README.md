@@ -50,6 +50,7 @@ The repository currently contains code snippets in the following programming lan
 42. Scratch
 43. Logo
 44. Smalltalk
+45. Perl
 
 ## Contributing
 
