@@ -41,6 +41,7 @@ The repository currently contains code snippets in the following programming lan
 33. CoffeeScript
 34. Kotlin (web)
 35. Julia (web)
+36. TypeScript (web)
 
 ## Contributing
 
