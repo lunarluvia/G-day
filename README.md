@@ -45,6 +45,11 @@ The repository currently contains code snippets in the following programming lan
 37. Rust (embedded)
 38. Julia (embedded)
 39. Lisp
+40. Groovy (web)
+41. Awk
+42. Scratch
+43. Logo
+44. Smalltalk
 
 ## Contributing
 
